@@ -23,8 +23,3 @@ server.post('/bot/webhook', line.middleware(line_config), (req, res, next) => {
     console.log(req.body);
 });
 
-$ git init
-Initialized empty Git repository in /Users/nkjm/node/sushi-bot/.git/
-npm-debug.log
-node_modules
-web: node index.js

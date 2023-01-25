@@ -1,7 +1,4 @@
-$ mkdir sushi-bot
-$ cd sushi-bot/
-$ npm init --yes
-$ npm install --save express @line/bot-sdk
+
 // -----------------------------------------------------------------------------
 // モジュールのインポート
 const server = require("express")();
